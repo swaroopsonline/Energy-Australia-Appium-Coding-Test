@@ -1,6 +1,7 @@
 # Energy-Australia-Appium-Coding-Test
 
-Note: This sample Appium Test Framework is designed using the Maven build tool with Page Object Model and Cucumber BDD plugin. We've used the actual Android app of 'Energy Australia' and automated the 'Register' feature with Invalid credentials on a real device.
+Note: This sample Appium Test Framework is designed using the Maven build tool with Page Object Model and Cucumber BDD plugin. We've used the actual  Android app of 'Energy Australia' and automated the 'Register' feature with Invalid credentials on a real device.
+Similarly many other features could be introduced in the framework with the right login credentials and various methodologies could be implemented to test various features of the App. Also note that in this framework we've only restricted ourselved to the Android app. However the Framework is robust enough to implement the IOS App automation as well.
 
 Pre-requisites to running this project:
 The following softwares & dependencies needs to be installed:
